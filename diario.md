@@ -6,4 +6,5 @@ Aprendí que los títulos se ponen con h1, h2 y h3 (h1 es el más grande) y los 
 <h4>Creo que esto me gusta en fin...</h4>
 
 <h2>DÍA 1:Aprendi la estructura principal de una pagina web</h2>
+``
 
